@@ -1,6 +1,7 @@
 .ipynb_checkpoints/
 
 .DS_Store
+logs/
 
 # Prerequisites
 *.d
