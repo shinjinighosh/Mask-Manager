@@ -10,6 +10,8 @@ logs/20210321-012646/
 logs/20210321-012957/
 resnet_ssd_facedetector.zip
 logs/
+testing/
+Output_test/
 
 # Prerequisites
 *.d
