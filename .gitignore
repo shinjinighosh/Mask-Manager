@@ -1,6 +1,14 @@
 .ipynb_checkpoints/
 
 .DS_Store
+Roc_curve.png
+cm.png
+collage.png
+logs/20210321-011043/train/events.out.tfevents.1616303444.dhcp-10-31-242-117.dyn.mit.edu.15408.3216.v2
+logs/20210321-011043/validation/
+logs/20210321-012646/
+logs/20210321-012957/
+resnet_ssd_facedetector.zip
 
 # Prerequisites
 *.d
