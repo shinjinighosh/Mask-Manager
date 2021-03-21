@@ -9,6 +9,7 @@ logs/20210321-011043/validation/
 logs/20210321-012646/
 logs/20210321-012957/
 resnet_ssd_facedetector.zip
+logs/
 
 # Prerequisites
 *.d
